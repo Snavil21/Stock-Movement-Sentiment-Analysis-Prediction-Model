@@ -1,1 +1,6 @@
-# Stock-Movement-Sentiment-Analysis-Prediction-Model
+## Stock Movement through Sentiment Analysis
+
+This is a readme file
+
+Requirements:
+
